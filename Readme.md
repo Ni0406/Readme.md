@@ -67,5 +67,5 @@ touch (имя) (имя) (имя) -- Позволяет создать неско
  7. git remote add (Имя ветку(любое) обычно origin) (сылка с удалённого репозитория)git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git 
  8. git push origin main -- отправить изменения с какой-то(origin) ветки на main or master 
  9. Заходим на удалённый репозиторий и радуемся
- 10. Увсё
+ 10. Увсё. 
  
